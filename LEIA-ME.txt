@@ -1,0 +1,13 @@
+MATHEUS.EXE | PORTFÓLIO 2026
+
+Abra index.html para ver o site.
+Para publicar no GitHub Pages, envie o conteúdo desta pasta para a raiz do repositório.
+Os projetos independentes estão em projetos/sistema-solar e projetos/galeria-senna.
+
+CONTATO: LinkedIn atualizado. O link GitHub recebido (github.com/settings/profile) e uma página de configurações, não um perfil público. O link correto e o e-mail seguem pendentes.
+Os 8 certificados foram cadastrados como informações e cartões ilustrativos. PDFs originais não foram incluídos, pois expõem identificadores pessoais, QR codes e outros dados.
+O curso AWS é do SENAI e NÃO equivale à certificação oficial da AWS.
+As fotografias de Ayrton Senna foram fornecidas pelo usuário para o projeto educativo. Verifique direitos de uso antes de publicar publicamente.
+A foto pessoal foi fornecida pelo usuário.
+O sistema solar usa escalas ilustrativas.
+Fontes Google Fonts exigem conexão; o site usa fontes alternativas quando offline.
